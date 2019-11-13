@@ -31,6 +31,26 @@ public class UtilClass {
             mark.setName(markInfo[0]);
             mark.setAtt(markInfo[1]);
             mark.setChance(Integer.parseInt(markInfo[2]));
+            mark.setEvent("base");
+            String type;
+
+            switch (mark.getChance()){
+
+                case 40:
+                    type="common";
+                    break;
+                case 25:
+                    type ="uncommon";
+                    break;
+                case 15:
+                    type= "rare";
+                    break;
+                default:
+                    type="common";
+                    break;
+            }
+
+            mark.setType(type);
 
             marklist.add(mark);
 
@@ -116,7 +136,7 @@ public class UtilClass {
         FileWriter writer = new FileWriter(file + ".txt");
         int size = arrData.size();
         for (int i=0;i<size;i++) {
-            String str = arrData.get(i).toString();
+            String str = arrData.get(i);
             writer.write(str);
             if(i < size-1)//This prevent creating a blank like at the end of the file**
             writer.write("\n");

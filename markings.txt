@@ -23,7 +23,6 @@ Piebald-Pb-15
 Rosette-Ro-15
 Tabby-Tb-15
 Tapir-Tp-15
-
 Collared-CC-40
 Countershade-CSCS-40
 Cover-CVCV-40
