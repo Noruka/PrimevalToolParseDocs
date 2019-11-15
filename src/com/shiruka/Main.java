@@ -87,7 +87,7 @@ public class Main {
 
                 for (int j = 0; j < Mlist.size(); j++) {
 
-                    Element mark = document.createElement("mark");
+                    Element mark = document.createElement("dinomark");
                     gen.appendChild(mark);
                     mark.appendChild(document.createTextNode(Mlist.get(j).getId()+""));
 
