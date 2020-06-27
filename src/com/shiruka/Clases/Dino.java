@@ -10,6 +10,7 @@ public class Dino {
     private String sex;
     private String color;
     private ArrayList<Marking> markings;
+    private int isFeathered;
 
     public Dino()
     {
@@ -22,6 +23,16 @@ public class Dino {
         this.sex = sex;
         this.color = color;
         this.markings = markings;
+    }
+
+    public Dino(String name, int id, String species, String sex, String color, ArrayList<Marking> markings, int isFeathered) {
+        this.name = name;
+        this.id = id;
+        this.species = species;
+        this.sex = sex;
+        this.color = color;
+        this.markings = markings;
+        this.isFeathered = isFeathered;
     }
 
     public int getId() {
@@ -72,6 +83,14 @@ public class Dino {
         this.markings = markings;
     }
 
+    public int getIsFeathered() {
+        return isFeathered;
+    }
+
+    public void setIsFeathered(int isFeathered) {
+        this.isFeathered = isFeathered;
+    }
+
     @Override
     public String toString() {
         return "Dino{" +
@@ -80,7 +99,8 @@ public class Dino {
                 ", species='" + species + '\'' +
                 ", sex='" + sex + '\'' +
                 ", color='" + color + '\'' +
-                ", markings=" + markings.toString() +
+                ", markings=" + markings +
+                ", isFeathered=" + isFeathered +
                 '}';
     }
 }

@@ -34,7 +34,6 @@ public class Main {
         markingArrayList = Util.readMarking("markings.txt");
         dinoArrayList = Util.readDino("starters.txt");
         WriteXMLDinoList();
-
     }
 
     private static void WriteXMLDinoList(){
@@ -94,6 +93,9 @@ public class Main {
                     gen.appendChild(mark);
                 }
 
+                Element feathered = document.createElement("feathered");
+                feathered.appendChild(document.createTextNode(dinoArrayList.get(i).getIsFeathered()+""));
+                dino.appendChild(feathered);
 
                 dino.appendChild(gen);
             }
@@ -131,6 +133,11 @@ public class Main {
                 Element type = document.createElement("type");
                 type.appendChild(document.createTextNode(markingArrayList.get(i).getType()));
                 mark.appendChild(type);
+
+                Element strength = document.createElement("strength");
+                strength.appendChild(document.createTextNode(markingArrayList.get(i).getStrenght()+""));
+                mark.appendChild(strength);
+
             }
             // create the xml file
             //transform the DOM Object to an XML File

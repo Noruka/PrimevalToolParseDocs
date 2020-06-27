@@ -1,1 +1,1299 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><starters><dino id="1"><name>Tamara</name><species>styracosaurus</species><sex>female</sex><color>rgb(86,63,54)</color><gen><dinomark>3</dinomark><dinomark>12</dinomark><dinomark>15</dinomark></gen></dino><dino id="2"><name>Paludisovo</name><species>styracosaurus</species><sex>female</sex><color>rgb(194,191,161)</color><gen><dinomark>2</dinomark><dinomark>6</dinomark><dinomark>8</dinomark><dinomark>12</dinomark></gen></dino><dino id="3"><name>Oceania</name><species>styracosaurus</species><sex>female</sex><color>rgb(91,108,112)</color><gen><dinomark>2</dinomark><dinomark>4</dinomark><dinomark>5</dinomark><dinomark>10</dinomark></gen></dino><dino id="4"><name>Moss</name><species>styracosaurus</species><sex>male</sex><color>rgb(77,89,77)</color><gen><dinomark>4</dinomark><dinomark>7</dinomark><dinomark>10</dinomark><dinomark>11</dinomark></gen></dino><dino id="5"><name>Brutus</name><species>styracosaurus</species><sex>male</sex><color>rgb(35, 33, 32)</color><gen><dinomark>5</dinomark><dinomark>8</dinomark><dinomark>13</dinomark><dinomark>15</dinomark></gen></dino><dino id="6"><name>Amber</name><species>styracosaurus</species><sex>female</sex><color>rgb(159,131,94)</color><gen><dinomark>3</dinomark><dinomark>4</dinomark><dinomark>7</dinomark><dinomark>10</dinomark><dinomark>15</dinomark></gen></dino><dino id="7"><name>Gracie</name><species>styracosaurus</species><sex>female</sex><color>rgb(108,99,96)</color><gen><dinomark>2</dinomark><dinomark>11</dinomark><dinomark>12</dinomark><dinomark>13</dinomark></gen></dino><dino id="8"><name>Magma</name><species>styracosaurus</species><sex>male</sex><color>rgb(87,37,21)</color><gen><dinomark>2</dinomark><dinomark>3</dinomark><dinomark>12</dinomark></gen></dino><dino id="9"><name>Magen</name><species>cryolophosaurus</species><sex>female</sex><color>rgb(50,45,43)</color><gen><dinomark>3</dinomark><dinomark>6</dinomark><dinomark>11</dinomark><dinomark>15</dinomark></gen></dino><dino id="10"><name>Wendell</name><species>cryolophosaurus</species><sex>male</sex><color>rgb(78,80,48)</color><gen><dinomark>2</dinomark><dinomark>7</dinomark><dinomark>8</dinomark><dinomark>11</dinomark></gen></dino><dino id="11"><name>Dante</name><species>cryolophosaurus</species><sex>male</sex><color>rgb(158,150,136)</color><gen><dinomark>3</dinomark><dinomark>10</dinomark><dinomark>12</dinomark><dinomark>13</dinomark></gen></dino><dino id="12"><name>Crayo</name><species>cryolophosaurus</species><sex>male</sex><color>rgb(40,44,55)</color><gen><dinomark>6</dinomark><dinomark>8</dinomark><dinomark>12</dinomark><dinomark>15</dinomark></gen></dino><dino id="13"><name>Toffee</name><species>cryolophosaurus</species><sex>male</sex><color>rgb(127,98,71)</color><gen><dinomark>5</dinomark><dinomark>10</dinomark><dinomark>11</dinomark><dinomark>15</dinomark></gen></dino><dino id="14"><name>Tegu</name><species>styracosaurus</species><sex>male</sex><color>rgb(124,110,101)</color><gen><dinomark>2</dinomark><dinomark>6</dinomark><dinomark>11</dinomark><dinomark>12</dinomark></gen></dino><dino id="15"><name>Dune</name><species>cryolophosaurus</species><sex>female</sex><color>rgb(192,150,113)</color><gen><dinomark>4</dinomark><dinomark>5</dinomark><dinomark>10</dinomark><dinomark>37</dinomark></gen></dino><dino id="16"><name>Midnight</name><species>cryolophosaurus</species><sex>female</sex><color>rgb(63,56,54)</color><gen><dinomark>8</dinomark><dinomark>12</dinomark><dinomark>13</dinomark></gen></dino><dino id="17"><name>Thunder</name><species>cryolophosaurus</species><sex>male</sex><color>rgb(126,114,135)</color><gen><dinomark>2</dinomark><dinomark>4</dinomark><dinomark>5</dinomark><dinomark>13</dinomark><dinomark>15</dinomark></gen></dino><dino id="18"><name>Angel</name><species>cryolophosaurus</species><sex>female</sex><color>rgb(81,96,81)</color><gen><dinomark>2</dinomark><dinomark>8</dinomark><dinomark>12</dinomark><dinomark>15</dinomark></gen></dino><dino id="19"><name>Sandstorm</name><species>cryolophosaurus</species><sex>female</sex><color>rgb(192,158,123)</color><gen><dinomark>2</dinomark><dinomark>7</dinomark><dinomark>10</dinomark><dinomark>12</dinomark></gen></dino><dino id="20"><name>Chrome</name><species>styracosaurus</species><sex>male</sex><color>rgb(97,98,105)</color><gen><dinomark>7</dinomark><dinomark>8</dinomark><dinomark>11</dinomark><dinomark>12</dinomark><dinomark>40</dinomark></gen></dino><dino id="70"><name>Stinger</name><species>parasaurolophus</species><sex>male</sex><color>rgb(69,72,84)</color><gen><dinomark>3</dinomark><dinomark>20</dinomark><dinomark>32</dinomark><dinomark>35</dinomark><dinomark>37</dinomark></gen></dino><dino id="71"><name>Banana Split</name><species>parasaurolophus</species><sex>male</sex><color>rgb(204,155,99)</color><gen><dinomark>7</dinomark><dinomark>8</dinomark><dinomark>10</dinomark><dinomark>15</dinomark><dinomark>25</dinomark><dinomark>37</dinomark></gen></dino><dino id="72"><name>Nymr</name><species>parasaurolophus</species><sex>female</sex><color>rgb(58,49,30)</color><gen><dinomark>15</dinomark><dinomark>34</dinomark><dinomark>42</dinomark><dinomark>44</dinomark></gen></dino><dino id="73"><name>KayTee</name><species>parasaurolophus</species><sex>female</sex><color>rgb(82,65,53)</color><gen><dinomark>2</dinomark><dinomark>7</dinomark><dinomark>35</dinomark><dinomark>46</dinomark></gen></dino><dino id="74"><name>Sorna</name><species>utahraptor</species><sex>male</sex><color>rgb(138,136,135)</color><gen><dinomark>9</dinomark><dinomark>12</dinomark><dinomark>30</dinomark><dinomark>50</dinomark></gen></dino><dino id="75"><name>Pyre</name><species>utahraptor</species><sex>male</sex><color>rgb(33,38,42)</color><gen><dinomark>3</dinomark><dinomark>10</dinomark><dinomark>15</dinomark><dinomark>17</dinomark></gen></dino><dino id="76"><name>Leonna</name><species>utahraptor</species><sex>female</sex><color>rgb(82,71,48)</color><gen><dinomark>1</dinomark><dinomark>3</dinomark><dinomark>24</dinomark><dinomark>27</dinomark></gen></dino><dino id="77"><name>Meep</name><species>utahraptor</species><sex>female</sex><color>rgb(186,137,74)</color><gen><dinomark>4</dinomark><dinomark>14</dinomark><dinomark>27</dinomark><dinomark>48</dinomark></gen></dino><dino id="78"><name>Coco</name><species>therizinosaurus</species><sex>male</sex><color>rgb(105,55,56)</color><gen><dinomark>3</dinomark><dinomark>13</dinomark><dinomark>20</dinomark></gen></dino><dino id="79"><name>Nero</name><species>therizinosaurus</species><sex>male</sex><color>rgb(39,44,57)</color><gen><dinomark>15</dinomark><dinomark>24</dinomark><dinomark>34</dinomark><dinomark>42</dinomark></gen></dino><dino id="80"><name>Rose</name><species>therizinosaurus</species><sex>female</sex><color>rgb(210,184,155)</color><gen><dinomark>3</dinomark><dinomark>17</dinomark><dinomark>22</dinomark></gen></dino><dino id="81"><name>Vitra</name><species>therizinosaurus</species><sex>female</sex><color>rgb(141,105,72)</color><gen><dinomark>1</dinomark><dinomark>12</dinomark><dinomark>16</dinomark><dinomark>27</dinomark></gen></dino><dino id="256"><name>Zere</name><species>carnotaurus</species><sex>female</sex><color>rgb(67,57,48)</color><gen><dinomark>1</dinomark><dinomark>4</dinomark><dinomark>10</dinomark><dinomark>15</dinomark><dinomark>17</dinomark><dinomark>44</dinomark></gen></dino><dino id="257"><name>Thistle</name><species>carnotaurus</species><sex>female</sex><color>rgb (35,26,35)</color><gen><dinomark>1</dinomark><dinomark>8</dinomark><dinomark>10</dinomark><dinomark>43</dinomark></gen></dino><dino id="258"><name>Rose</name><species>carnotaurus</species><sex>female</sex><color>rgb(217,177,158)</color><gen><dinomark>3</dinomark><dinomark>10</dinomark><dinomark>31</dinomark><dinomark>40</dinomark></gen></dino><dino id="259"><name>Savannah</name><species>carnotaurus</species><sex>female</sex><color>rgb(207,156,107)</color><gen><dinomark>4</dinomark><dinomark>7</dinomark><dinomark>40</dinomark><dinomark>48</dinomark></gen></dino><dino id="260"><name>Sessie</name><species>carnotaurus</species><sex>female</sex><color>rgb(97,100,63)</color><gen><dinomark>11</dinomark><dinomark>14</dinomark><dinomark>16</dinomark><dinomark>20</dinomark><dinomark>27</dinomark><dinomark>38</dinomark></gen></dino><dino id="261"><name>Bayou</name><species>carnotaurus</species><sex>male</sex><color>rgb(146,153,130)</color><gen><dinomark>7</dinomark><dinomark>11</dinomark><dinomark>25</dinomark><dinomark>27</dinomark><dinomark>28</dinomark></gen></dino><dino id="262"><name>Pumpkin Spice</name><species>carnotaurus</species><sex>male</sex><color>rgb(144,104,77)</color><gen><dinomark>1</dinomark><dinomark>15</dinomark><dinomark>24</dinomark><dinomark>33</dinomark><dinomark>38</dinomark></gen></dino><dino id="263"><name>Freddy</name><species>carnotaurus</species><sex>male</sex><color>rgb(51,46,42)</color><gen><dinomark>2</dinomark><dinomark>13</dinomark><dinomark>21</dinomark><dinomark>30</dinomark><dinomark>42</dinomark></gen></dino><dino id="264"><name>Hoax</name><species>carnotaurus</species><sex>male</sex><color>rgb(74,77,86)</color><gen><dinomark>5</dinomark><dinomark>15</dinomark><dinomark>37</dinomark><dinomark>41</dinomark></gen></dino><dino id="265"><name>Caine</name><species>carnotaurus</species><sex>male</sex><color>rgb(187,159,127)</color><gen><dinomark>2</dinomark><dinomark>3</dinomark><dinomark>7</dinomark><dinomark>23</dinomark><dinomark>36</dinomark><dinomark>47</dinomark></gen></dino><dino id="266"><name>Phantom</name><species>carnotaurus</species><sex>male</sex><color>rgb(156,159,165)</color><gen><dinomark>6</dinomark><dinomark>12</dinomark><dinomark>22</dinomark><dinomark>34</dinomark></gen></dino></starters><Markings><mark id="1"><markname>Collared</markname><attribute>C</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="2"><markname>Countershade</markname><attribute>Cs</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="3"><markname>Cover</markname><attribute>Cv</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="4"><markname>Dorsal</markname><attribute>Do</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="5"><markname>Dun</markname><attribute>Dn</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="6"><markname>Fawn</markname><attribute>Fn</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="7"><markname>Freckled</markname><attribute>Fr</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="8"><markname>Midline</markname><attribute>Ml</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="9"><markname>Pants</markname><attribute>Pt</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="10"><markname>Rimmed</markname><attribute>Rm</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="11"><markname>Sable</markname><attribute>Sb</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="12"><markname>Siamese</markname><attribute>Si</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="13"><markname>Starred</markname><attribute>St</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="14"><markname>Tears</markname><attribute>T</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="15"><markname>Unders</markname><attribute>Un</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="16"><markname>Brindle</markname><attribute>Br</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="17"><markname>Fade</markname><attribute>Fd</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="18"><markname>Roan</markname><attribute>R</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="19"><markname>Striped</markname><attribute>Sp</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="20"><markname>Curse</markname><attribute>Cu</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="21"><markname>Appaloosa</markname><attribute>Ap</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="22"><markname>Piebald</markname><attribute>Pb</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="23"><markname>Rosette</markname><attribute>Ro</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="24"><markname>Tabby</markname><attribute>Tb</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="25"><markname>Tapir</markname><attribute>Tp</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="26"><markname>Collared</markname><attribute>CC</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="27"><markname>Countershade</markname><attribute>CSCS</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="28"><markname>Cover</markname><attribute>CVCV</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="29"><markname>Dorsal</markname><attribute>DODO</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="30"><markname>Dun</markname><attribute>DNDN</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="31"><markname>Fawn</markname><attribute>FNFN</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="32"><markname>Freckled</markname><attribute>FRFR</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="33"><markname>Midline</markname><attribute>MLML</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="34"><markname>Pants</markname><attribute>PTPT</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="35"><markname>Rimmed</markname><attribute>RMRM</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="36"><markname>Sable</markname><attribute>SBSB</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="37"><markname>Siamese</markname><attribute>SISI</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="38"><markname>Starred</markname><attribute>STST</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="39"><markname>Tears</markname><attribute>TT</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="40"><markname>Unders</markname><attribute>UNUN</attribute><chance>40</chance><event>base</event><type>common</type></mark><mark id="41"><markname>Brindle</markname><attribute>BRBR</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="42"><markname>Fade</markname><attribute>FDFD</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="43"><markname>Roan</markname><attribute>RR</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="44"><markname>Striped</markname><attribute>SPSP</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="45"><markname>Curse</markname><attribute>CUCU</attribute><chance>25</chance><event>base</event><type>uncommon</type></mark><mark id="46"><markname>Appaloosa</markname><attribute>APAP</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="47"><markname>Piebald</markname><attribute>PBPB</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="48"><markname>Rosette</markname><attribute>RORO</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="49"><markname>Tabby</markname><attribute>TBTB</attribute><chance>15</chance><event>base</event><type>rare</type></mark><mark id="50"><markname>Tapir</markname><attribute>TPTP</attribute><chance>15</chance><event>base</event><type>rare</type></mark></Markings></root>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <starters>
+        <dino id="1">
+            <name>Tamara</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(86,63,54)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="2">
+            <name>Paludisovo</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(194,191,161)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>6</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+        <dino id="3">
+            <name>Oceania</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(91,108,112)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>10</dinomark>
+            </gen>
+        </dino>
+        <dino id="4">
+            <name>Moss</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(77,89,77)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>4</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>11</dinomark>
+            </gen>
+        </dino>
+        <dino id="5">
+            <name>Brutus</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(35, 33, 32)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>5</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>13</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="6">
+            <name>Amber</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(159,131,94)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="7">
+            <name>Gracie</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(108,99,96)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>11</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="8">
+            <name>Magma</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(87,37,21)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>3</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+        <dino id="9">
+            <name>Magen</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(50,45,43)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>6</dinomark>
+                <dinomark>11</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="10">
+            <name>Wendell</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(78,80,48)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>11</dinomark>
+            </gen>
+        </dino>
+        <dino id="11">
+            <name>Dante</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(158,150,136)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="12">
+            <name>Crayo</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(40,44,55)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>6</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="13">
+            <name>Toffee</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(127,98,71)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>5</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>11</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="14">
+            <name>Tegu</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(124,110,101)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>6</dinomark>
+                <dinomark>11</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+        <dino id="15">
+            <name>Dune</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(192,150,113)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>4</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>37</dinomark>
+            </gen>
+        </dino>
+        <dino id="16">
+            <name>Midnight</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(63,56,54)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>8</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="17">
+            <name>Thunder</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(126,114,135)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>13</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="18">
+            <name>Angel</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(81,96,81)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="19">
+            <name>Sandstorm</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(192,158,123)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+        <dino id="20">
+            <name>Chrome</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(97,98,105)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>11</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>40</dinomark>
+            </gen>
+        </dino>
+        <dino id="70">
+            <name>Stinger</name>
+            <species>parasaurolophus</species>
+            <sex>male</sex>
+            <color>rgb(69,72,84)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>20</dinomark>
+                <dinomark>32</dinomark>
+                <dinomark>35</dinomark>
+                <dinomark>37</dinomark>
+            </gen>
+        </dino>
+        <dino id="71">
+            <name>Banana Split</name>
+            <species>parasaurolophus</species>
+            <sex>male</sex>
+            <color>rgb(204,155,99)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>15</dinomark>
+                <dinomark>25</dinomark>
+                <dinomark>37</dinomark>
+            </gen>
+        </dino>
+        <dino id="72">
+            <name>Nymr</name>
+            <species>parasaurolophus</species>
+            <sex>female</sex>
+            <color>rgb(58,49,30)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>15</dinomark>
+                <dinomark>34</dinomark>
+                <dinomark>42</dinomark>
+                <dinomark>44</dinomark>
+            </gen>
+        </dino>
+        <dino id="73">
+            <name>KayTee</name>
+            <species>parasaurolophus</species>
+            <sex>female</sex>
+            <color>rgb(82,65,53)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>35</dinomark>
+                <dinomark>46</dinomark>
+            </gen>
+        </dino>
+        <dino id="74">
+            <name>Sorna</name>
+            <species>utahraptor</species>
+            <sex>male</sex>
+            <color>rgb(138,136,135)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>9</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>30</dinomark>
+                <dinomark>50</dinomark>
+            </gen>
+        </dino>
+        <dino id="75">
+            <name>Pyre</name>
+            <species>utahraptor</species>
+            <sex>male</sex>
+            <color>rgb(33,38,42)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>15</dinomark>
+                <dinomark>17</dinomark>
+            </gen>
+        </dino>
+        <dino id="76">
+            <name>Leonna</name>
+            <species>utahraptor</species>
+            <sex>female</sex>
+            <color>rgb(82,71,48)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>3</dinomark>
+                <dinomark>24</dinomark>
+                <dinomark>27</dinomark>
+            </gen>
+        </dino>
+        <dino id="77">
+            <name>Meep</name>
+            <species>utahraptor</species>
+            <sex>female</sex>
+            <color>rgb(186,137,74)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>4</dinomark>
+                <dinomark>14</dinomark>
+                <dinomark>27</dinomark>
+                <dinomark>48</dinomark>
+            </gen>
+        </dino>
+        <dino id="78">
+            <name>Coco</name>
+            <species>therizinosaurus</species>
+            <sex>male</sex>
+            <color>rgb(105,55,56)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>13</dinomark>
+                <dinomark>20</dinomark>
+            </gen>
+        </dino>
+        <dino id="79">
+            <name>Nero</name>
+            <species>therizinosaurus</species>
+            <sex>male</sex>
+            <color>rgb(39,44,57)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>15</dinomark>
+                <dinomark>24</dinomark>
+                <dinomark>34</dinomark>
+                <dinomark>42</dinomark>
+            </gen>
+        </dino>
+        <dino id="80">
+            <name>Rose</name>
+            <species>therizinosaurus</species>
+            <sex>female</sex>
+            <color>rgb(210,184,155)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>17</dinomark>
+                <dinomark>22</dinomark>
+            </gen>
+        </dino>
+        <dino id="81">
+            <name>Vitra</name>
+            <species>therizinosaurus</species>
+            <sex>female</sex>
+            <color>rgb(141,105,72)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>16</dinomark>
+                <dinomark>27</dinomark>
+            </gen>
+        </dino>
+        <dino id="178">
+            <name>Lucifer</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(108,58,51)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>3</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>45</dinomark>
+            </gen>
+        </dino>
+        <dino id="256">
+            <name>Zere</name>
+            <species>carnotaurus</species>
+            <sex>female</sex>
+            <color>rgb(67,57,48)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>15</dinomark>
+                <dinomark>17</dinomark>
+                <dinomark>44</dinomark>
+            </gen>
+        </dino>
+        <dino id="257">
+            <name>Thistle</name>
+            <species>carnotaurus</species>
+            <sex>female</sex>
+            <color>rgb (35,26,35)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>43</dinomark>
+            </gen>
+        </dino>
+        <dino id="258">
+            <name>Rose</name>
+            <species>carnotaurus</species>
+            <sex>female</sex>
+            <color>rgb(217,177,158)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>31</dinomark>
+                <dinomark>40</dinomark>
+            </gen>
+        </dino>
+        <dino id="259">
+            <name>Savannah</name>
+            <species>carnotaurus</species>
+            <sex>female</sex>
+            <color>rgb(207,156,107)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>4</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>40</dinomark>
+                <dinomark>48</dinomark>
+            </gen>
+        </dino>
+        <dino id="260">
+            <name>Sessie</name>
+            <species>carnotaurus</species>
+            <sex>female</sex>
+            <color>rgb(97,100,63)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>11</dinomark>
+                <dinomark>14</dinomark>
+                <dinomark>16</dinomark>
+                <dinomark>20</dinomark>
+                <dinomark>27</dinomark>
+                <dinomark>38</dinomark>
+            </gen>
+        </dino>
+        <dino id="261">
+            <name>Bayou</name>
+            <species>carnotaurus</species>
+            <sex>male</sex>
+            <color>rgb(146,153,130)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>7</dinomark>
+                <dinomark>11</dinomark>
+                <dinomark>25</dinomark>
+                <dinomark>27</dinomark>
+                <dinomark>28</dinomark>
+            </gen>
+        </dino>
+        <dino id="262">
+            <name>Pumpkin Spice</name>
+            <species>carnotaurus</species>
+            <sex>male</sex>
+            <color>rgb(144,104,77)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>15</dinomark>
+                <dinomark>24</dinomark>
+                <dinomark>33</dinomark>
+                <dinomark>38</dinomark>
+            </gen>
+        </dino>
+        <dino id="263">
+            <name>Freddy</name>
+            <species>carnotaurus</species>
+            <sex>male</sex>
+            <color>rgb(51,46,42)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>13</dinomark>
+                <dinomark>21</dinomark>
+                <dinomark>30</dinomark>
+                <dinomark>42</dinomark>
+            </gen>
+        </dino>
+        <dino id="264">
+            <name>Hoax</name>
+            <species>carnotaurus</species>
+            <sex>male</sex>
+            <color>rgb(74,77,86)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>5</dinomark>
+                <dinomark>15</dinomark>
+                <dinomark>37</dinomark>
+                <dinomark>41</dinomark>
+            </gen>
+        </dino>
+        <dino id="265">
+            <name>Caine</name>
+            <species>carnotaurus</species>
+            <sex>male</sex>
+            <color>rgb(187,159,127)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>3</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>23</dinomark>
+                <dinomark>36</dinomark>
+                <dinomark>47</dinomark>
+            </gen>
+        </dino>
+        <dino id="266">
+            <name>Phantom</name>
+            <species>carnotaurus</species>
+            <sex>male</sex>
+            <color>rgb(156,159,165)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>6</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>22</dinomark>
+                <dinomark>34</dinomark>
+            </gen>
+        </dino>
+        <dino id="676">
+            <name>Navii</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(133, 98, 56)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="677">
+            <name>Strawberry</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(172,151,117)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>11</dinomark>
+            </gen>
+        </dino>
+        <dino id="678">
+            <name>Chirp</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(66,54,54)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="679">
+            <name>Firefly</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(98,114,70)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="680">
+            <name>Scoria</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(60,60,60)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="681">
+            <name>Snow Bird</name>
+            <species>cryolophosaurus</species>
+            <sex>female</sex>
+            <color>rgb(217,217,217)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>11</dinomark>
+            </gen>
+        </dino>
+        <dino id="682">
+            <name>Hanauta</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(71, 79, 86)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>3</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+        <dino id="683">
+            <name>Nev</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(63,63,40)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>6</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="684">
+            <name>Frog</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(58,64,75)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>11</dinomark>
+            </gen>
+        </dino>
+        <dino id="685">
+            <name>Khan</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(201,193,181)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>6</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+            </gen>
+        </dino>
+        <dino id="686">
+            <name>Nassa</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(144,106,97)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="687">
+            <name>Trout</name>
+            <species>cryolophosaurus</species>
+            <sex>male</sex>
+            <color>rgb(62,66,70)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>6</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="688">
+            <name>Fjiila</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(57, 34, 31)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>10</dinomark>
+            </gen>
+        </dino>
+        <dino id="689">
+            <name>Dava</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(234,212,180)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>6</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>11</dinomark>
+            </gen>
+        </dino>
+        <dino id="690">
+            <name>Theresa</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(37,38,40)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>13</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="691">
+            <name>Breeze</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(87,80,80)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>2</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="692">
+            <name>Lotus</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(165,132,98)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>6</dinomark>
+                <dinomark>11</dinomark>
+            </gen>
+        </dino>
+        <dino id="693">
+            <name>Pisces</name>
+            <species>styracosaurus</species>
+            <sex>female</sex>
+            <color>rgb(120,140,141)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>7</dinomark>
+                <dinomark>8</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+        <dino id="694">
+            <name>Odysseyr</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(96, 105, 102)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>15</dinomark>
+            </gen>
+        </dino>
+        <dino id="695">
+            <name>Noir</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(46,32,20)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>3</dinomark>
+                <dinomark>10</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+        <dino id="696">
+            <name>Phorops</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(93,95,66)</color>
+            <feathered>0</feathered>
+            <gen>
+                <dinomark>2</dinomark>
+                <dinomark>3</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>10</dinomark>
+            </gen>
+        </dino>
+        <dino id="697">
+            <name>Zeus</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(177,149,106)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>3</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>12</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="698">
+            <name>Stargazer</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(048,053,057)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>5</dinomark>
+                <dinomark>11</dinomark>
+                <dinomark>13</dinomark>
+            </gen>
+        </dino>
+        <dino id="699">
+            <name>Camo</name>
+            <species>styracosaurus</species>
+            <sex>male</sex>
+            <color>rgb(71,70,43)</color>
+            <feathered>1</feathered>
+            <gen>
+                <dinomark>1</dinomark>
+                <dinomark>4</dinomark>
+                <dinomark>5</dinomark>
+                <dinomark>12</dinomark>
+            </gen>
+        </dino>
+    </starters>
+    <Markings>
+        <mark id="1">
+            <markname>Collared</markname>
+            <attribute>C</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="2">
+            <markname>Countershade</markname>
+            <attribute>Cs</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="3">
+            <markname>Cover</markname>
+            <attribute>Cv</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="4">
+            <markname>Dorsal</markname>
+            <attribute>Do</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="5">
+            <markname>Dun</markname>
+            <attribute>Dn</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="6">
+            <markname>Fawn</markname>
+            <attribute>Fn</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="7">
+            <markname>Freckled</markname>
+            <attribute>Fr</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="8">
+            <markname>Midline</markname>
+            <attribute>Ml</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="9">
+            <markname>Pants</markname>
+            <attribute>Pt</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="10">
+            <markname>Rimmed</markname>
+            <attribute>Rm</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="11">
+            <markname>Sable</markname>
+            <attribute>Sb</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="12">
+            <markname>Siamese</markname>
+            <attribute>Si</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="13">
+            <markname>Starred</markname>
+            <attribute>St</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="14">
+            <markname>Tears</markname>
+            <attribute>T</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="15">
+            <markname>Unders</markname>
+            <attribute>Un</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="16">
+            <markname>Brindle</markname>
+            <attribute>Br</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="17">
+            <markname>Fade</markname>
+            <attribute>Fd</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="18">
+            <markname>Roan</markname>
+            <attribute>R</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="19">
+            <markname>Striped</markname>
+            <attribute>Sp</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="20">
+            <markname>Curse</markname>
+            <attribute>Cu</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="21">
+            <markname>Appaloosa</markname>
+            <attribute>Ap</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="22">
+            <markname>Piebald</markname>
+            <attribute>Pb</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="23">
+            <markname>Rosette</markname>
+            <attribute>Ro</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="24">
+            <markname>Tabby</markname>
+            <attribute>Tb</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="25">
+            <markname>Tapir</markname>
+            <attribute>Tp</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="26">
+            <markname>Collared</markname>
+            <attribute>CC</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="27">
+            <markname>Countershade</markname>
+            <attribute>CSCS</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="28">
+            <markname>Cover</markname>
+            <attribute>CVCV</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="29">
+            <markname>Dorsal</markname>
+            <attribute>DODO</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="30">
+            <markname>Dun</markname>
+            <attribute>DNDN</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="31">
+            <markname>Fawn</markname>
+            <attribute>FNFN</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="32">
+            <markname>Freckled</markname>
+            <attribute>FRFR</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="33">
+            <markname>Midline</markname>
+            <attribute>MLML</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="34">
+            <markname>Pants</markname>
+            <attribute>PTPT</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="35">
+            <markname>Rimmed</markname>
+            <attribute>RMRM</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="36">
+            <markname>Sable</markname>
+            <attribute>SBSB</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="37">
+            <markname>Siamese</markname>
+            <attribute>SISI</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="38">
+            <markname>Starred</markname>
+            <attribute>STST</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="39">
+            <markname>Tears</markname>
+            <attribute>TT</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="40">
+            <markname>Unders</markname>
+            <attribute>UNUN</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="41">
+            <markname>Brindle</markname>
+            <attribute>BRBR</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="42">
+            <markname>Fade</markname>
+            <attribute>FDFD</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="43">
+            <markname>Roan</markname>
+            <attribute>RR</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="44">
+            <markname>Striped</markname>
+            <attribute>SPSP</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="45">
+            <markname>Curse</markname>
+            <attribute>CUCU</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="46">
+            <markname>Appaloosa</markname>
+            <attribute>APAP</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="47">
+            <markname>Piebald</markname>
+            <attribute>PBPB</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="48">
+            <markname>Rosette</markname>
+            <attribute>RORO</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="49">
+            <markname>Tabby</markname>
+            <attribute>TBTB</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="50">
+            <markname>Tapir</markname>
+            <attribute>TPTP</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+    </Markings>
+</root>

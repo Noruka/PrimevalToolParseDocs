@@ -1,6 +1,6 @@
 package com.shiruka.Clases;
 
-public class Marking implements Comparable<Marking>{
+public class Marking implements Comparable<Marking> {
 
     private Integer id;
     private String name;
@@ -8,6 +8,7 @@ public class Marking implements Comparable<Marking>{
     private int chance;
     private String event;
     private String type;
+    private int Strenght;
 
     public Marking(Integer id, String name, String att, int chance, String event, String type) {
         this.id = id;
@@ -18,7 +19,25 @@ public class Marking implements Comparable<Marking>{
         this.type = type;
     }
 
+    public Marking(Integer id, String name, String att, int chance, String event, String type, int strenght) {
+        this.id = id;
+        this.name = name;
+        this.att = att;
+        this.chance = chance;
+        this.event = event;
+        this.type = type;
+        Strenght = strenght;
+    }
+
     public Marking() {
+    }
+
+    public int getStrenght() {
+        return Strenght;
+    }
+
+    public void setStrenght(int strenght) {
+        Strenght = strenght;
     }
 
     public int getId() {
@@ -82,6 +101,7 @@ public class Marking implements Comparable<Marking>{
                 ", chance=" + chance +
                 ", event='" + event + '\'' +
                 ", type='" + type + '\'' +
+                ", Strenght=" + Strenght +
                 '}';
     }
 

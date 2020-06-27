@@ -1,43 +1,68 @@
-Tamara-001-styracosaurus-female-rgb(86,63,54)-Si / Un / Cv
-Paludisovo-002-styracosaurus-female-rgb(194,191,161)-Si / Fn / Cs / Ml 
-Oceania-003-styracosaurus-female-rgb(91,108,112)-Do / Dn / Cs / Rm 
-Moss-004-styracosaurus-male-rgb(77,89,77)-Do / Sb / Fr / Rm
-Brutus-005-styracosaurus-male-rgb(35, 33, 32)-Dn / St / Un / Ml
-Amber-006-styracosaurus-female-rgb(159,131,94)-Cv / Do / Fr / Rm / Un
-Gracie-007-styracosaurus-female-rgb(108,99,96)-Cs / Sb / Si / St
-Magma-008-styracosaurus-male-rgb(87,37,21)-Cv / Si / Cs
-Magen-009-cryolophosaurus-female-rgb(50,45,43)-Cv / Sb / Fn / Un
-Wendell-010-cryolophosaurus-male-rgb(78,80,48)-Ml / Fr / Sb / Cs
-Dante-011-cryolophosaurus-male-rgb(158,150,136)-Si / Rm / St / Cv
-Crayo-012-cryolophosaurus-male-rgb(40,44,55)-Fn / Un / Ml / Si
-Toffee-013-cryolophosaurus-male-rgb(127,98,71)-Dn / Sb / Un / Rm
-Tegu-014-styracosaurus-male-rgb(124,110,101)-Cs / Sb / Si / Fn
-Dune-015-cryolophosaurus-female-rgb(192,150,113)-SISI / Rm / Dn / Do
-Midnight-016-cryolophosaurus-female-rgb(63,56,54)-Si / Ml / St
-Thunder-017-cryolophosaurus-male-rgb(126,114,135)-Dn / St / Cs / Do / Un
-Angel-018-cryolophosaurus-female-rgb(81,96,81)-Si / Ml / Cs / Un
-Sandstorm-019-cryolophosaurus-female-rgb(192,158,123)-Si / Fr / Cs / Rm
-Chrome-020-styracosaurus-male-rgb(97,98,105)-Si / Ml / UNUN / Fr / Sb
-Stinger-070-parasaurolophus-male-rgb(69,72,84)-RMRM / FRFR / Cv / SISI / Cu
-Banana Split-071-parasaurolophus-male-rgb(204,155,99)-Rm / Fr / SISI / Ml / Un / Tp
-Nymr-072-parasaurolophus-female-rgb(58,49,30)-Un / PTPT / FDFD / SPSP
-KayTee-073-parasaurolophus-female-rgb(82,65,53)-APAP / Rn / Cs / RMRM / Fr
-Sorna-074-utahraptor-male-rgb(138,136,135)-Pt / Si / DNDN / TPTP
-Pyre-075-utahraptor-male-rgb(33,38,42)-Cv / Fd / Un / Rm
-Leonna-076-utahraptor-female-rgb(82,71,48)-Cv / C / CSCS / Tb
-Meep-077-utahraptor-female-rgb(186,137,74)-CSCS / Do / T / RORO
-Coco-078-therizinosaurus-male-rgb(105,55,56)-St / Cu / Cv
-Nero-079-therizinosaurus-male-rgb(39,44,57)-Un / PTPT / FDFD / Tb
-Rose-080-therizinosaurus-female-rgb(210,184,155)-Pb / Fd / Cv / Rn
-Vitra-081-therizinosaurus-female-rgb(141,105,72)-CSCS / Si / C / Br
-Zere-256-carnotaurus-female-rgb(67,57,48)-C / Do / Rm / SPSP / Un / Fd
-Thistle-257-carnotaurus-female-rgb (35,26,35)-C / Ml / Rm / RR
-Rose-258-carnotaurus-female-rgb(217,177,158)-Rm / FNFN / Cv / UNUN
-Savannah-259-carnotaurus-female-rgb(207,156,107)-UNUN / RORO / Do / Fr
-Sessie-260-carnotaurus-female-rgb(97,100,63)-Cu / Br / T / CSCS / Sb / STST
-Bayou-261-carnotaurus-male-rgb(146,153,130)-CSCS / CVCV / Md / Fr / Sb / Tp
-Pumpkin Spice-262-carnotaurus-male-rgb(144,104,77)-Un / MLML / C / STST / Tb
-Freddy-263-carnotaurus-male-rgb(51,46,42)-St / FDFD / DNDN / Cs / Ap
-Hoax-264-carnotaurus-male-rgb(74,77,86)-Un / SISI / Dn / BRBR
-Caine-265-carnotaurus-male-rgb(187,159,127)-PBPB / SBSB / Cv / Ro / Fr / Cs
-Phantom-266-carnotaurus-male-rgb(156,159,165)-Fn / Si / PTPT / Pb
+Tamara-001-styracosaurus-female-rgb(86,63,54)-Si / Un / Cv-0
+Paludisovo-002-styracosaurus-female-rgb(194,191,161)-Si / Fn / Cs / Ml-0
+Oceania-003-styracosaurus-female-rgb(91,108,112)-Do / Dn / Cs / Rm-0
+Moss-004-styracosaurus-male-rgb(77,89,77)-Do / Sb / Fr / Rm-0
+Brutus-005-styracosaurus-male-rgb(35, 33, 32)-Dn / St / Un / Ml-0
+Amber-006-styracosaurus-female-rgb(159,131,94)-Cv / Do / Fr / Rm / Un-0
+Gracie-007-styracosaurus-female-rgb(108,99,96)-Cs / Sb / Si / St-0
+Magma-008-styracosaurus-male-rgb(87,37,21)-Cv / Si / Cs-0
+Magen-009-cryolophosaurus-female-rgb(50,45,43)-Cv / Sb / Fn / Un-0
+Wendell-010-cryolophosaurus-male-rgb(78,80,48)-Ml / Fr / Sb / Cs-0
+Dante-011-cryolophosaurus-male-rgb(158,150,136)-Si / Rm / St / Cv-0
+Crayo-012-cryolophosaurus-male-rgb(40,44,55)-Fn / Un / Ml / Si-0
+Toffee-013-cryolophosaurus-male-rgb(127,98,71)-Dn / Sb / Un / Rm-0
+Tegu-014-styracosaurus-male-rgb(124,110,101)-Cs / Sb / Si / Fn-0
+Dune-015-cryolophosaurus-female-rgb(192,150,113)-SISI / Rm / Dn / Do-0
+Midnight-016-cryolophosaurus-female-rgb(63,56,54)-Si / Ml / St-0
+Thunder-017-cryolophosaurus-male-rgb(126,114,135)-Dn / St / Cs / Do / Un-0
+Angel-018-cryolophosaurus-female-rgb(81,96,81)-Si / Ml / Cs / Un-0
+Sandstorm-019-cryolophosaurus-female-rgb(192,158,123)-Si / Fr / Cs / Rm-0
+Chrome-020-styracosaurus-male-rgb(97,98,105)-Si / Ml / UNUN / Fr / Sb-0
+Stinger-070-parasaurolophus-male-rgb(69,72,84)-RMRM / FRFR / Cv / SISI / Cu-0
+Banana Split-071-parasaurolophus-male-rgb(204,155,99)-Rm / Fr / SISI / Ml / Un / Tp-0
+Nymr-072-parasaurolophus-female-rgb(58,49,30)-Un / PTPT / FDFD / SPSP-0
+KayTee-073-parasaurolophus-female-rgb(82,65,53)-APAP / Rn / Cs / RMRM / Fr-0
+Sorna-074-utahraptor-male-rgb(138,136,135)-Pt / Si / DNDN / TPTP-0
+Pyre-075-utahraptor-male-rgb(33,38,42)-Cv / Fd / Un / Rm-1
+Leonna-076-utahraptor-female-rgb(82,71,48)-Cv / C / CSCS / Tb-1
+Meep-077-utahraptor-female-rgb(186,137,74)-CSCS / Do / T / RORO-0
+Coco-078-therizinosaurus-male-rgb(105,55,56)-St / Cu / Cv-1
+Nero-079-therizinosaurus-male-rgb(39,44,57)-Un / PTPT / FDFD / Tb-1
+Rose-080-therizinosaurus-female-rgb(210,184,155)-Pb / Fd / Cv / Rn-1
+Vitra-081-therizinosaurus-female-rgb(141,105,72)-CSCS / Si / C / Br-1
+Lucifer-178-cryolophosaurus-female-rgb(108,58,51)-Cs / CUCU / Cv / Si / Dn / Fr-0
+Zere-256-carnotaurus-female-rgb(67,57,48)-C / Do / Rm / SPSP / Un / Fd-0
+Thistle-257-carnotaurus-female-rgb (35,26,35)-C / Ml / Rm / RR-0
+Rose-258-carnotaurus-female-rgb(217,177,158)-Rm / FNFN / Cv / UNUN-0
+Savannah-259-carnotaurus-female-rgb(207,156,107)-UNUN / RORO / Do / Fr-0
+Sessie-260-carnotaurus-female-rgb(97,100,63)-Cu / Br / T / CSCS / Sb / STST-0
+Bayou-261-carnotaurus-male-rgb(146,153,130)-CSCS / CVCV / Md / Fr / Sb / Tp-0
+Pumpkin Spice-262-carnotaurus-male-rgb(144,104,77)-Un / MLML / C / STST / Tb-0
+Freddy-263-carnotaurus-male-rgb(51,46,42)-St / FDFD / DNDN / Cs / Ap-0
+Hoax-264-carnotaurus-male-rgb(74,77,86)-Un / SISI / Dn / BRBR-0
+Caine-265-carnotaurus-male-rgb(187,159,127)-PBPB / SBSB / Cv / Ro / Fr / Cs-0
+Phantom-266-carnotaurus-male-rgb(156,159,165)-Fn / Si / PTPT / Pb-0
+Navii-676-cryolophosaurus-female-rgb(133, 98, 56)-Cv / Fr / St / Rm-1
+Strawberry-677-cryolophosaurus-female-rgb(172,151,117)-Do / Rm / C / Sb-0
+Chirp-678-cryolophosaurus-female-rgb(66,54,54)-Si / Un / Do / C-1
+Firefly-679-cryolophosaurus-female-rgb(98,114,70)-Cs / Dn / St / Si-0
+Scoria-680-cryolophosaurus-female-rgb(60,60,60)-Rm / Fr / Un / Ml-0
+Snow Bird-681-cryolophosaurus-female-rgb(217,217,217)-Rm / Ml / Sb / Fr-1
+Hanauta-682-cryolophosaurus-male-rgb(71, 79, 86)-Cv / Si / Cs-0
+Nev-683-cryolophosaurus-male-rgb(63,63,40)-Fn / Un / Si-1
+Frog-684-cryolophosaurus-male-rgb(58,64,75)-Cs / Sb / Ml / Dn-1
+Khan-685-cryolophosaurus-male-rgb(201,193,181)-Ml / Fr / Fn / Cv-0
+Nassa-686-cryolophosaurus-male-rgb(144,106,97)-Rm / Dn / Cv / St-1
+Trout-687-cryolophosaurus-male-rgb(62,66,70)-Un / C / Fn / Do-0
+Fjiila-688-styracosaurus-female-rgb(57, 34, 31)-Rm / Ml / Fr-1
+Dava-689-styracosaurus-female-rgb(234,212,180)-Ml / Sb / Fn / Fr-1
+Theresa-690-styracosaurus-female-rgb(37,38,40)-Ml / Un / Cv / St-1
+Breeze-691-styracosaurus-female-rgb(87,80,80)-Cs / C / Un / Do-0
+Lotus-692-styracosaurus-female-rgb(165,132,98)-C / Do / Fn / Sb-0
+Pisces-693-styracosaurus-female-rgb(120,140,141)-Fr / Ml / Cs / Si-0
+Odysseyr-694-styracosaurus-male-rgb(96, 105, 102)-Si / C / Do / Un-0
+Noir-695-styracosaurus-male-rgb(46,32,20)-Cv / Cs / Rm / Si-0
+Phorops-696-styracosaurus-male-rgb(93,95,66)-Cv / Dn / Rm / Cs-0
+Zeus-697-styracosaurus-male-rgb(177,149,106)-Cv / St / Dn / Si-1
+Stargazer-698-styracosaurus-male-rgb(048,053,057)-St / Sb / Dn-1
+Camo-699-styracosaurus-male-rgb(71,70,43)-Si / C / Dn / Do-1
