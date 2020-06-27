@@ -43,6 +43,9 @@ public class UtilClass {
                     case 15:
                         type = "rare";
                         break;
+                    case 7:
+                        type = "primal";
+                        break;
                     default:
                         type = "common";
                         break;

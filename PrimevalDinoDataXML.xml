@@ -1295,5 +1295,565 @@
             <type>rare</type>
             <strength>1</strength>
         </mark>
+        <mark id="51">
+            <markname>Dock</markname>
+            <attribute>Dk</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="52">
+            <markname>Masked</markname>
+            <attribute>Ma</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="53">
+            <markname>Caiman</markname>
+            <attribute>Cm</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="54">
+            <markname>Cell</markname>
+            <attribute>Ce</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="55">
+            <markname>Clouded</markname>
+            <attribute>Cl</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="56">
+            <markname>Crossing</markname>
+            <attribute>Cr</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="57">
+            <markname>Dapple</markname>
+            <attribute>Dp</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="58">
+            <markname>Haze</markname>
+            <attribute>Hz</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="59">
+            <markname>Hood</markname>
+            <attribute>Hd</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="60">
+            <markname>Patches</markname>
+            <attribute>Pa</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="61">
+            <markname>Ripple</markname>
+            <attribute>Rp</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="62">
+            <markname>Saddle</markname>
+            <attribute>Sd</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="63">
+            <markname>Scutes</markname>
+            <attribute>Sc</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="64">
+            <markname>Sleeves</markname>
+            <attribute>Sl</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="65">
+            <markname>Socks</markname>
+            <attribute>So</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="66">
+            <markname>Streaked</markname>
+            <attribute>Sk</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="67">
+            <markname>Underblaze</markname>
+            <attribute>Ub</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="68">
+            <markname>Anteater</markname>
+            <attribute>An</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="69">
+            <markname>Banded</markname>
+            <attribute>Bn</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="70">
+            <markname>Dalmatian</markname>
+            <attribute>Dm</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="71">
+            <markname>Eroded</markname>
+            <attribute>Er</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="72">
+            <markname>Framed</markname>
+            <attribute>Fm</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="73">
+            <markname>Lacing</markname>
+            <attribute>Lc</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="74">
+            <markname>Merle</markname>
+            <attribute>Mr</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="75">
+            <markname>Pinstripe</markname>
+            <attribute>Ps</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="76">
+            <markname>Python</markname>
+            <attribute>Py</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="77">
+            <markname>Sunspots</markname>
+            <attribute>Ss</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="78">
+            <markname>Barred</markname>
+            <attribute>Ba</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="79">
+            <markname>Diamondback</markname>
+            <attribute>Db</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="80">
+            <markname>Giraffe</markname>
+            <attribute>Gi</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="81">
+            <markname>Macaw</markname>
+            <attribute>Mc</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="82">
+            <markname>Painted</markname>
+            <attribute>Pn</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="83">
+            <markname>Royal</markname>
+            <attribute>Ry</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="84">
+            <markname>Smog</markname>
+            <attribute>Sg</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="85">
+            <markname>Jackal</markname>
+            <attribute>Jk</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>0</strength>
+        </mark>
+        <mark id="86">
+            <markname>Dock</markname>
+            <attribute>DKDK</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="87">
+            <markname>Masked</markname>
+            <attribute>MAMA</attribute>
+            <chance>40</chance>
+            <event>base</event>
+            <type>common</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="88">
+            <markname>Caiman</markname>
+            <attribute>CMCM</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="89">
+            <markname>Cell</markname>
+            <attribute>CECE</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="90">
+            <markname>Clouded</markname>
+            <attribute>CLCL</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="91">
+            <markname>Crossing</markname>
+            <attribute>CRCR</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="92">
+            <markname>Dapple</markname>
+            <attribute>DPDP</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="93">
+            <markname>Haze</markname>
+            <attribute>HZHZ</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="94">
+            <markname>Hood</markname>
+            <attribute>HDHD</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="95">
+            <markname>Patches</markname>
+            <attribute>PAPA</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="96">
+            <markname>Ripple</markname>
+            <attribute>RPRP</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="97">
+            <markname>Saddle</markname>
+            <attribute>SDSD</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="98">
+            <markname>Scutes</markname>
+            <attribute>SCSC</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="99">
+            <markname>Sleeves</markname>
+            <attribute>SLSL</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="100">
+            <markname>Socks</markname>
+            <attribute>SOSO</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="101">
+            <markname>Streaked</markname>
+            <attribute>SKSK</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="102">
+            <markname>Underblaze</markname>
+            <attribute>UBUB</attribute>
+            <chance>25</chance>
+            <event>base</event>
+            <type>uncommon</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="103">
+            <markname>Anteater</markname>
+            <attribute>ANAN</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="104">
+            <markname>Banded</markname>
+            <attribute>BNBN</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="105">
+            <markname>Dalmatian</markname>
+            <attribute>DMDM</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="106">
+            <markname>Eroded</markname>
+            <attribute>ERER</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="107">
+            <markname>Framed</markname>
+            <attribute>FMFM</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="108">
+            <markname>Lacing</markname>
+            <attribute>LCLC</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="109">
+            <markname>Merle</markname>
+            <attribute>MRMR</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="110">
+            <markname>Pinstripe</markname>
+            <attribute>PSPS</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="111">
+            <markname>Python</markname>
+            <attribute>PYPY</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="112">
+            <markname>Sunspots</markname>
+            <attribute>SSSS</attribute>
+            <chance>15</chance>
+            <event>base</event>
+            <type>rare</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="113">
+            <markname>Barred</markname>
+            <attribute>BABA</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="114">
+            <markname>Diamondback</markname>
+            <attribute>DBDB</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="115">
+            <markname>Giraffe</markname>
+            <attribute>GIGI</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="116">
+            <markname>Macaw</markname>
+            <attribute>MCMC</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="117">
+            <markname>Painted</markname>
+            <attribute>PNPN</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="118">
+            <markname>Royal</markname>
+            <attribute>RYRY</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="119">
+            <markname>Smog</markname>
+            <attribute>SGSG</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
+        <mark id="120">
+            <markname>Jackal</markname>
+            <attribute>JKJK</attribute>
+            <chance>7</chance>
+            <event>base</event>
+            <type>primal</type>
+            <strength>1</strength>
+        </mark>
     </Markings>
 </root>
