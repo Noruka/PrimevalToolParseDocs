@@ -20,9 +20,10 @@ import java.util.ArrayList;
 
 public class Main {
 
-    public static final String xmlFilePathDino = "PrimevalDinoDataXML.xml";
+    //three things needed for readTXT to work
+    public static final String xmlFilePathDino = "PrimevalDinoDataXML.xml"; //output
 
-    public static ArrayList<Marking> markingArrayList = new ArrayList<>();
+    public static ArrayList<Marking> markingArrayList = new ArrayList<>();//generic lists
     public static ArrayList<Dino> dinoArrayList = new ArrayList<>();
 
     public static void main(String[] args) {
